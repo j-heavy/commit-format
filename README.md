@@ -5,7 +5,7 @@ Based on  [Angular`s rules](https://github.com/angular/angular/blob/master/CONTR
 
 Correctly formatted commits are easy to read, which leads to a **readable changelog**. This is why it is important.
 
-> NOTE: every single commit denotes one logical change. [Theck this article](https://en.wikipedia.org/wiki/Logical_connective)
+> NOTE: every single commit denotes one logical change. [Check this article](https://en.wikipedia.org/wiki/Logical_connective)
 # Commit Message Format
 
 ### Commit Layout
