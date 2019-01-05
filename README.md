@@ -43,7 +43,7 @@ The version in our package.json gets copied to the one we publish, and users nee
 - **style**: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
 - **test**: Adding missing tests or correcting existing tests
 - **tweaks**: For small changes on other places (please do not use often)
-- **misc**: anything not covered by the above categories, e.g. rename or move files
+- **misc**: Anything not covered by the above categories, e.g. rename or move files
 
 ### Subject 
 
