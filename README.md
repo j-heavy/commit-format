@@ -56,6 +56,8 @@ The subject contains a succinct description of the change:
 
 The area must contain the modified one (if one), otherwise indicate the logical area that has undergone changes
 
+> In smaller projects, you can use a freer form, but don't overdo it.
+
 
 
 
